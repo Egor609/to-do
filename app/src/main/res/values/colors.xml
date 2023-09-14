@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3E5F8A</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#D50000</color>
+    <color name="colorBlue">#DEF7FE</color>
+    <color name="colorFon">#70DEF7FE</color>
+    <color name="colorFonItem">#70C9E0E6</color>
+
+    <drawable name="completedTaskBackground">#CCCCCC</drawable>
+    <drawable name="touchFeedback">#CFD8DC</drawable>
+
+</resources>

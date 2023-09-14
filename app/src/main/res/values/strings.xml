@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Планировщик</string>
+    <string name="task_manager">Планировщик задач</string>
+    <string name="add_task">Новая задача</string>
+    <string name="edit_task">Редактировать задачу</string>
+    <string name="menu_filter">Фильтр</string>
+    <string name="menu_clear">Очистить</string>
+    <string name="menu_delete_task">Удалить</string>
+    <string name="navigation_view_header_title"></string>
+    <string name="title_hint">Название</string>
+    <string name="description_hint">Описание</string>
+    <string name="list_title">Список дел</string>
+    <string name="statistics_title">Статистика</string>
+    <string name="statistics_no_tasks">У вас нет никаких задач.</string>
+    <string name="statistics_active_tasks">Активные задачи: %d</string>
+    <string name="statistics_completed_tasks">Выполненные задачи: %d</string>
+
+    <string-array name="list_tasks_array">
+        <item>@string/nav_active</item>
+        <item>@string/nav_completed</item>
+    </string-array>
+
+    <string name="nav_active">Активные</string>
+    <string name="nav_completed">Завершённые</string>
+    <string name="label_all">Все задачи</string>
+    <string name="label_active">Активные задачи</string>
+    <string name="label_completed">Завершённые задачи</string>
+    <string name="no_tasks_active">Ваш список пуст!</string>
+    <string name="no_tasks_completed">У вас нет завершённых задач!</string>
+    <string name="no_tasks_add">Нажмите "+", чтобы создать задачу</string>
+    <string name="refresh">Обновить</string>
+
+    <string name="task_marked_complete">Задача помечена как завершённая</string>
+    <string name="task_marked_active">Задача помечена как активная</string>
+    <string name="loading_tasks_error">Ошибка при загрузке задач</string>
+    <string name="completed_tasks_cleared">Выполненные задачи очищены</string>
+    <string name="empty_task_message">Поле не может быть пустым</string>
+    <string name="successfully_saved_task_message">Изменения сохранены</string>
+    <string name="successfully_deleted_task_message">Задача была удалена</string>
+    <string name="successfully_added_task_message">Добавлена задача</string>
+
+    <string name="statistics_error">Статистика загрузки ошибок.</string>
+    <string name="no_data">Нет данных</string>
+    <string name="loading">Загрузка</string>
+    <string name="no_data_description">Нет описания данных</string>
+
+</resources>
